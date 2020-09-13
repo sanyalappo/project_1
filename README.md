@@ -1,1 +1,3 @@
-# project_1
+# Alexandra
+# 1 group
+# ISiT
